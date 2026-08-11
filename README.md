@@ -36,7 +36,7 @@ This website is highly inspirated by:
 
 ## Authors
 
-Mathis Nguyen (graduated in 2025), Nicholas Bouin (gratuated in 2024), Matheo Janusz (gratuated in 2024)
+Mathis Nguyen (graduated in 2025), Nicholas Bouin (gratuated in 2024), Matheo Janusz (gratuated in 2024) - Clemence Royer High School ©
 
 ## License
 
